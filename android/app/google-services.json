@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038394190091",
+    "project_id": "fir-dl-csd-issue",
+    "storage_bucket": "fir-dl-csd-issue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038394190091:android:87c831c250760ebbc51a0e",
+        "android_client_info": {
+          "package_name": "com.roamtogether.firebase_dl_issue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038394190091-iajcpud8om52444d4rgh6b7q8d1se99n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzL0ILMlZZluM1M7L31LQfdo4OB_l7EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038394190091-iajcpud8om52444d4rgh6b7q8d1se99n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
